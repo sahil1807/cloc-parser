@@ -1,0 +1,19 @@
+{
+  "name": "cleartax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1"
+  },
+  "dependencies": {
+    "buckets-js": "^1.98.2",
+    "lodash": "^4.17.20"
+  }
+}
